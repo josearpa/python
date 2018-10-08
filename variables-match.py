@@ -25,3 +25,4 @@ mul2=(a + b + c) * 2
 print "(a+b+c)*2="+str(mul2)
 nose=c % b
 print "c%b="+str(nose)
+
